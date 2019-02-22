@@ -1,0 +1,10 @@
+[gd_resource type="NativeScript" load_steps=2 format=2]
+
+[ext_resource path="res://addons/summerplaygames.godot-hmac/godot-hmac.gdnlib" type="GDNativeLibrary" id=1]
+
+[resource]
+resource_name = "HMAC"
+class_name = "HMAC"
+library = ExtResource( 1 )
+script_class_name = "HMAC"
+
